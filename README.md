@@ -1,4 +1,4 @@
-**Bem vindo ao meu repositório**
+### **Bem vindo ao meu repositório**
 
 _Meu nome é_: Higor Silveira
 
@@ -6,10 +6,12 @@ _Meu nome é_: Higor Silveira
 - Desenvolvendo minha linguagem JavaScript
 - Pesso desculpas se estiver algo errado
 - Pretendo criar vários projetos
+- Estudando no alura
+- Aprendendo a utilizar o GitHub
 
-**Como chegar até mim**📬
+### **Como chegar até mim**📬
 
-[hgrgithub@gmail.com]
+###  [hgrgithub@gmail.com]
 
 
 
