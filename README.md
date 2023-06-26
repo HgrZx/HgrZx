@@ -1,4 +1,4 @@
-         BEM VINDO AO MEU REPOSITÓRIO
+              BEM VINDO AO MEU REPOSITÓRIO
 
 
 
@@ -20,5 +20,8 @@
 
 📫 Como chegar até mim: [hgrgithub@gmail.com]
 
+㊗️ Curto assistir algums animes
 
 
+ 
+![joyeux-anniversaire](https://github.com/HgrZx/HgrZx/assets/137738843/301d909a-4b03-4490-92b9-2af7831933c7)
