@@ -8,19 +8,17 @@
 
 
 
-🔭Atualmente estou trabalhando 
+🔭 Atualmente estou fazendo o ensino médio 
 
-🌱 Atualmente estou aprendendo ...
+🌐 Atualmente estou aprendendo códigos java 
 
-👯 Estou procurando colaborar em ...
+🎮 Estou procurando colaborar em criação de jogos
 
-🤔 Estou procurando ajuda com ...
+🎶 Gosto muito de música
 
-💬 
+🌌 Gosto muito de astronomia
 
 📫 Como chegar até mim: [hgrgithub@gmail.com]
 
 
 
-
-![](![zoro](https://github.com/HgrZx/HgrZx/assets/137738843/147de400-3c67-45a5-a700-b809f4b90e52)
