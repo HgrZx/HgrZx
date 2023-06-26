@@ -1,4 +1,4 @@
-         *BEM VINDO AO MEU REPOSITÓRIO*
+         BEM VINDO AO MEU REPOSITÓRIO
 
 
 
