@@ -9,7 +9,7 @@ _Meu nome é_: Higor Silveira
 
 **Como chegar até mim**📬
 
-##[hgrgithub@gmail.com]
+[hgrgithub@gmail.com]
 
 
 
