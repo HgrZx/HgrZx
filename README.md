@@ -6,7 +6,7 @@ _Meu nome é_: Higor Silveira
 - Desenvolvendo minha linguagem JavaScript
 - Pesso desculpas se estiver algo errado
 - Pretendo criar vários projetos
-- Estudando na **alura**
+- Estudando na allura
 - Aprendendo a utilizar o GitHub
 
 ### **Como chegar até mim**📬
